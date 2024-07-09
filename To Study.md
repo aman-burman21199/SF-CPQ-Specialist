@@ -1,0 +1,12 @@
+- [ ] Percent of Total
+- [ ] Pricing method + Cost Plus markup
+- [ ] Percent of Total Base
+- [ ] Block Pricing
+- [ ] Contracted Pricing ; if Seamus in Sales Operations wants to define a special product price for one of your accounts, MondoCorp, he can create a Contracted Pricing just for them
+- [ ] CPQ object data model, CPQ package level settings and price waterfall
+- [ ] Quote Templates
+- [ ] Advanced grouping and Advanced quote template topics
+- [ ] Price Dimensions
+- [ ] https://help.salesforce.com/s/articleView?id=000381708&type=1
+- [ ] Usage based products and pricing
+- [ ] [you can also include information about the discount schedule right in the proposal](https://trailhead.salesforce.com/content/learn/modules/discounting-tools-in-salesforce-cpq/set-up-volume-based-discount-schedules?trailmix_creator_id=strailhead&trailmix_slug=prepare-for-your-salesforce-cpq-specialist-credential) 
